@@ -1,0 +1,5 @@
+{
+	"title"		:	"Multiplayer Shooter Objectives",
+	"type"		:	"tool",
+	"ignore"	:	[".git/*", "README.md", ".gitattributes"]
+}
